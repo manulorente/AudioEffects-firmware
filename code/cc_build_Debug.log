@@ -1,0 +1,14 @@
+----------------------------  efectos.pjt - Debug  ----------------------------
+[lab3c.cdb] "C:\CCStudio_v3.1\plugins\bios\gconfgen" lab3c.cdb
+
+[codigoP3c.c] "C:\CCStudio_v3.1\c6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/FINAL/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"_DEBUG" -d"CHIP_6713" -mv6700 -@"Debug.lkf" "codigoP3c.c"
+
+[lab3ccfg.s62] "C:\CCStudio_v3.1\c6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/FINAL/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"_DEBUG" -d"CHIP_6713" -mv6700 -@"Debug.lkf" "lab3ccfg.s62"
+
+[lab3ccfg_c.c] "C:\CCStudio_v3.1\c6000\cgtools\bin\cl6x" -g -fr"C:/CCStudio_v3.1/MyProjects/FINAL/Debug" -i"C:/CCStudio_v3.1/C6000/dsk6713/include" -d"_DEBUG" -d"CHIP_6713" -mv6700 -@"Debug.lkf" "lab3ccfg_c.c"
+
+[Linking...] "C:\CCStudio_v3.1\c6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.
